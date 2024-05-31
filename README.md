@@ -1,4 +1,4 @@
-# NIM-App-Onboarding
+# NIM-App-NIM-Onboarding
 
 # Description
 Sample Onboarding App
